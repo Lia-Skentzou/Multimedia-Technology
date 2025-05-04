@@ -1,0 +1,49 @@
+[ {
+  "task" : {
+    "id" : "aa64672a-ed3d-4954-891e-1075e37d8a51",
+    "title" : "Robotics ",
+    "description" : "Do exercises for your robotics class",
+    "category" : {
+      "name" : "Computer Science"
+    },
+    "priority" : {
+      "name" : "Medium"
+    },
+    "dueDate" : [ 2025, 3, 20 ],
+    "status" : "OPEN"
+  },
+  "reminderDate" : [ 2025, 3, 13 ],
+  "reminderType" : "ONE_WEEK_BEFORE"
+}, {
+  "task" : {
+    "id" : "308b4777-628b-43f5-bbb9-57691a6a379b",
+    "title" : "Algorithms",
+    "description" : "Submit exercises for your algorithms course",
+    "category" : {
+      "name" : "Computer Science"
+    },
+    "priority" : {
+      "name" : "Default"
+    },
+    "dueDate" : [ 2025, 3, 31 ],
+    "status" : "OPEN"
+  },
+  "reminderDate" : [ 2025, 2, 28 ],
+  "reminderType" : "ONE_MONTH_BEFORE"
+}, {
+  "task" : {
+    "id" : "0bdda14b-a049-48dc-8ad8-08dbcf6218e0",
+    "title" : "Team Meeting",
+    "description" : "Project discussion",
+    "category" : {
+      "name" : "Work"
+    },
+    "priority" : {
+      "name" : "Medium"
+    },
+    "dueDate" : [ 2025, 3, 22 ],
+    "status" : "OPEN"
+  },
+  "reminderDate" : [ 2025, 3, 21 ],
+  "reminderType" : "ONE_DAY_BEFORE"
+} ]

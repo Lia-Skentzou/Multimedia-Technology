@@ -1,0 +1,13 @@
+com\taskmanager\TaskManager.class
+com\taskmanager\MainApp.class
+com\taskmanager\Priority.class
+com\taskmanager\ReminderType.class
+com\taskmanager\Reminder$1.class
+com\taskmanager\TaskStatus.class
+com\taskmanager\Category.class
+com\taskmanager\ReminderManager.class
+com\taskmanager\Reminder.class
+com\taskmanager\CategoryManager.class
+com\taskmanager\utils\JsonUtil.class
+com\taskmanager\PriorityManager.class
+com\taskmanager\Task.class

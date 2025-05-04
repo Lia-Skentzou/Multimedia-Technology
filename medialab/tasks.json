@@ -1,0 +1,121 @@
+[ {
+  "id" : "b1219e08-6e76-4080-80f8-3346f1f25813",
+  "title" : "Finish Report",
+  "description" : "Complete financial report",
+  "category" : {
+    "name" : "Work"
+  },
+  "priority" : {
+    "name" : "High"
+  },
+  "dueDate" : [ 2025, 2, 20 ],
+  "status" : "DELAYED"
+}, {
+  "id" : "0bdda14b-a049-48dc-8ad8-08dbcf6218e0",
+  "title" : "Team Meeting",
+  "description" : "Project discussion",
+  "category" : {
+    "name" : "Work"
+  },
+  "priority" : {
+    "name" : "Medium"
+  },
+  "dueDate" : [ 2025, 3, 22 ],
+  "status" : "OPEN"
+}, {
+  "id" : "d914e0e2-7b44-40f7-ad05-3802a26293b2",
+  "title" : "Grocery Shopping",
+  "description" : "Buy weekly groceries",
+  "category" : {
+    "name" : "Personal"
+  },
+  "priority" : {
+    "name" : "Low"
+  },
+  "dueDate" : [ 2025, 3, 23 ],
+  "status" : "COMPLETED"
+}, {
+  "id" : "2f3e54cd-dc9b-4469-b907-2e033ada394a",
+  "title" : "Presentation",
+  "description" : "Prepare presentation for meeting",
+  "category" : {
+    "name" : "Work"
+  },
+  "priority" : {
+    "name" : "High"
+  },
+  "dueDate" : [ 2025, 3, 24 ],
+  "status" : "OPEN"
+}, {
+  "id" : "a300f5bc-e860-47ca-a613-3fd2497ffc34",
+  "title" : "Gym bill",
+  "description" : "pay the gym bill",
+  "category" : {
+    "name" : "Personal"
+  },
+  "priority" : {
+    "name" : "High"
+  },
+  "dueDate" : [ 2025, 3, 1 ],
+  "status" : "OPEN"
+}, {
+  "id" : "4de08e5d-adf2-41bb-bcc2-0a7bf425ec4f",
+  "title" : "Java Project ",
+  "description" : "fix the errors in the java class",
+  "category" : {
+    "name" : "Computer Science"
+  },
+  "priority" : {
+    "name" : "Low"
+  },
+  "dueDate" : [ 2025, 2, 25 ],
+  "status" : "DELAYED"
+}, {
+  "id" : "82d5e0ab-75f9-4613-9ed1-38b89a7c5b18",
+  "title" : "Parallel Systems ",
+  "description" : "parallelize code for GPUs ",
+  "category" : {
+    "name" : "Computer Science"
+  },
+  "priority" : {
+    "name" : "High"
+  },
+  "dueDate" : [ 2025, 3, 8 ],
+  "status" : "IN_PROGRESS"
+}, {
+  "id" : "aa64672a-ed3d-4954-891e-1075e37d8a51",
+  "title" : "Robotics ",
+  "description" : "Do exercises for your robotics class",
+  "category" : {
+    "name" : "Computer Science"
+  },
+  "priority" : {
+    "name" : "Medium"
+  },
+  "dueDate" : [ 2025, 3, 20 ],
+  "status" : "OPEN"
+}, {
+  "id" : "7d602e1d-7ba4-4101-bcc4-76a92d5adc67",
+  "title" : "Birthday Present ",
+  "description" : "Buy a present fo your friend ",
+  "category" : {
+    "name" : "Personal"
+  },
+  "priority" : {
+    "name" : "High"
+  },
+  "dueDate" : [ 2025, 3, 17 ],
+  "status" : "OPEN"
+}, {
+  "id" : "308b4777-628b-43f5-bbb9-57691a6a379b",
+  "title" : "Algorithms",
+  "description" : "Submit exercises for your algorithms course",
+  "category" : {
+    "name" : "Computer Science"
+  },
+  "priority" : {
+    "name" : "Default"
+  },
+  "dueDate" : [ 2025, 3, 31 ],
+  "status" : "OPEN"
+} ]
